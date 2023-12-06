@@ -16,7 +16,7 @@ So I combined both sources and found a total of five clusters, then mapped them 
 
 This picture shows the regional diversity of clusters more clearly. Each region had characteristic clusters, but each of them contains at least a few of every cluster. 
 
-![](Cluster_Distrib_by_Region.pdf) 
+![](Cluster_Distrib_by_Region.jpg) 
 
 In the full paper I dive a little deeper, looking into the differences across clusters (e.g. income distribution, same-sex households, Medicaid coverage and so forth). 
 
