@@ -12,4 +12,6 @@ I ran each of these separately and found something interesting. For each of the 
 
 So I combined both sources and found a total of five clusters, then mapped them onto Virginia:
 
+![](ACS_Yelp_Cluster_Map.png)
+
 
