@@ -10,8 +10,16 @@ I ran each of these separately and found something interesting. For each of the 
 
 ![](cluster_centroid_annotated.png)
 
-So I combined both sources and found a total of five clusters, then mapped them onto Virginia:
+So I combined both sources and found a total of five clusters, then mapped them onto Virginia. What's interesting to me about this picture is that while you can find definite tendencies for certain types of clusters to appear in say Southside Virginia versus Central Virginia, there's also some diversity in those regions. In other words, not all the (say) Cluster 0 tracts are concentrated in one region. These are the small pockets of diversity I was thinking about. 
 
 ![](ACS_Yelp_Cluster_Map.png)
+
+This picture shows the regional diversity of clusters more clearly. Each region had characteristic clusters, but each of them contains at least a few of every cluster. 
+
+![](Cluster_Distrib_by_Region.pdf) 
+
+In the full paper I dive a little deeper, looking into the differences across clusters (e.g. income distribution, same-sex households, Medicaid coverage and so forth). 
+
+I feel like this could be the springboard for something more substantial. Reach out if you have ideas! Also, all the code is banked in this repo (I didn't bank the Yelp data because the API asks you not to do that, and the ACS data is pretty large and in any event easy to get).
 
 
