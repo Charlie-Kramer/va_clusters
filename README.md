@@ -6,7 +6,7 @@ So for a school project, I decided to use data by Virginia census tract to find 
 
 I measured 'culture' from Yelp using the average distance from the middle of each tract to the closest restaurants that had (a) a vegetarian-friendly menu or (b) gender-neutral restrooms, and 'socioeconomics' using about 180 variables from the Census American Community Survey. I then looked for 'clusters' of tracts with similar values for these variables, without any consideration of where in Virginia they were located geographically. (For example, one cluster might be tracts with high income that are far from gender-neutral restrooms.)
 
-I ran each of these separately and found something interesting. For each of the two data sources, I calculated three clusters, then looked at where the corresponding tracts were located. Check out the picture below--the Yelp clusters run roughly West-East while the Census clusters run North-South. Are there distinct 'culture' and 'socioeconomic' gradients in Virginia?
+I ran each of these separately and found something interesting. For each of the two data sources, I calculated three clusters, then looked at where the corresponding tracts were centered. Check out the picture below--the Yelp clusters are centered along a line that runs roughly West-East while the Census clusters are centered along a line that runs North-South. Are there distinct 'culture' and 'socioeconomic' gradients in Virginia? It's also interesting that the cluster centers are around Virginia's geographic center of population--e.g. the 'balance point' if you made a map of Virginia and put a weight on it where each person lived--this center is just outside Richmond. 
 
 ![](cluster_centroid_annotated.png)
 
